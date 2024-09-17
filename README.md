@@ -1,7 +1,7 @@
 ## ASAM ODS EXD API plugins
 
-This following repository contains a [ASAM ODS EXD-API](https://www.asam.net/standards/detail/ods/) plugins
-used to extend ASAM ODS server to work with external file formats.
+The following repositories contain an [ASAM ODS EXD-API](https://www.asam.net/standards/detail/ods/) plugin
+used to extend ASAM ODS servers to work with external file formats.
 
 | name          | extension   | link |
 | ------------- | ----------- | ---- |
